@@ -1,0 +1,8 @@
+learnt about following topics:
+
+React Routes - how to navigate btw diff pages, without reloading
+New Hooks:
+useHistory - used here to go back to home page, jahan kahi bhi ho
+useLocation - used to find the current path
+
+npm package react-burger-menu - hamburger navigation ke liye
